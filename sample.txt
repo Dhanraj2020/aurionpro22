@@ -1,3 +1,5 @@
 This is sample file made in november
 
 This is usually created for git session
+
+Added extra line for diff check
