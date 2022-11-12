@@ -1,4 +1,4 @@
-  316  mkdir aurionpro
+316  mkdir aurionpro
   317  cd aurionpro/
   318  git clone https://github.com/DevOpsHubIN/aurionpro_nov2022.git
   319  ll
@@ -26,7 +26,7 @@
 
 
 
-  343  git pull
+343  git pull
   344  cat aurion_autobuild
   345  git remote -v
   346  git config --list
@@ -45,7 +45,7 @@
   359  git pull
 
 
-  372  git add aurion_autobuild
+372  git add aurion_autobuild
   373  git commit -m "revert this change"
   374  git log
   375  git revert e463572
