@@ -64,5 +64,3 @@
   388  git revert 022b4e2
   389  git reset --hard 022b4e2
   390  git log --oneline
-  
-  added some git commands 
