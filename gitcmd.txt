@@ -64,3 +64,42 @@
   388  git revert 022b4e2
   389  git reset --hard 022b4e2
   390  git log --oneline
+
+  392  git branch
+  393  git branch dev
+  394  git branch
+  395  git checkout dev
+  396  git branch
+  397  git branch delete
+  398  git branch
+  400  git branch -d delete
+  401  git branch -m dev prod
+  402  git branch
+  403  git checkout -b dev
+  404  ll
+  405  git branch
+  406  ll
+  407  vim aurion_autobuild
+  408  git status
+  409  git add .
+  410  git commit "new branch dev"
+  411  git commit -m "new branch dev"
+  412  git push origin dev
+  413  git checkout prod
+  414  git merge dev
+  415  git push origin prod
+  416  git checkout dev
+  417  git checkout taskid1234
+  418  git checkout -b taskid1234
+  419  vim aurion_autobuild
+  420  git status
+  421  git add .
+  422  git commit -m "taskid1234 completed"
+  423  git push origin taskid1234
+  424  vim aurion_autobuild
+  425  git add .
+  426  git commit -m "reworked on taskid1234"
+  427  git push origin taskid1234
+  
+  
+  Go to setting in repository and add people
